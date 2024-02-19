@@ -17,15 +17,15 @@ So this application design to overcome it.
 
 **### _SCREEN SHOTS OF APP:-_**
 
-<img width="451" alt="image" src="https://user-images.githubusercontent.com/76620587/190265010-8e4fff7a-91bf-45f5-b000-505f64054b2d.png">
+<img width="451" alt="image" src="/DTcare/app/src/190265010-8e4fff7a-91bf-45f5-b000-505f64054b2d.png">
 
 
-<img width="449" alt="image" src="https://user-images.githubusercontent.com/76620587/190265153-48890e00-81de-4db1-b19e-d24242ae33aa.png">
+<img width="449" alt="image" src="/DTcare/app/src/190265153-48890e00-81de-4db1-b19e-d24242ae33aa.png">
 
 
-<img width="446" alt="image" src="https://user-images.githubusercontent.com/76620587/190265294-fca28d17-40c6-4799-b2eb-a66d0f2cbeff.png">
+<img width="446" alt="image" src="/DTcare/app/src/190265294-fca28d17-40c6-4799-b2eb-a66d0f2cbeff.png">
 
-<img width="447" alt="image" src="https://user-images.githubusercontent.com/76620587/190265374-330aa0d3-881b-4297-93b2-3e993c66a22b.png">
+<img width="447" alt="image" src="/DTcare/app/src/190265374-330aa0d3-881b-4297-93b2-3e993c66a22b.png">
 
 ### **_Future Scope:-_**
 
