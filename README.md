@@ -32,10 +32,13 @@ So this application design to overcome it.
 We can extend project like:
 ► Adding feature of register in any hospital which patients like to register from
 the available list of hospitals..
+
 ► Can connect all cities clinic/hospital in single app .And patients can easily
 check which one is near .And which one has less number of patient.
+
 ► Can also add feature of doctor can send medicine list of specific patient
 directly to medical shop .And patient has just to go and pay for it .
+
 ► Can Undo and redo all the operations we performed.
 
 
