@@ -29,7 +29,8 @@ So this application design to overcome it.
 
 ### **_Future Scope:-_**
 
-We can extend project like:
+_We can extend project like:_
+
 ► Adding feature of register in any hospital which patients like to register from
 the available list of hospitals..
 
