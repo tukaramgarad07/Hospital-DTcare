@@ -15,7 +15,7 @@ So this application design to overcome it.
 7. To avoid crowd in clinic/hospital
 8. To check clinic/hospital address on google map.
 
-**### _SCREEN SHOTS OF APP:-_**
+### **_SCREEN SHOTS OF APP:-_**
 
 <img width="451" alt="image" src="/DTcare/app/src/190265010-8e4fff7a-91bf-45f5-b000-505f64054b2d.png">
 
